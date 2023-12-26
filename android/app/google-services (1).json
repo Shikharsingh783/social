@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "381873328556",
+    "project_id": "social-decf3",
+    "storage_bucket": "social-decf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381873328556:android:316bdfc831b854d3edea09",
+        "android_client_info": {
+          "package_name": "com.example.social"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC99cPLuU8d3S_G0X8skg8HGZYf3mhg1JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
